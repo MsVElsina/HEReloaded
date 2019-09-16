@@ -25,3 +25,6 @@ https://discord.gg/83UTpgh
 
 If you want to support tansuergene please checkout thier marketplace assets
 https://www.unrealengine.com/marketplace/en-US/profile/tansuergene
+
+If you want to support MsVelsina please checkout her Patreon
+https://www.patreon.com/MsVelsina
