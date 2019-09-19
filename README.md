@@ -17,7 +17,7 @@ These are:
 - Very basic Graphics options
 - Player body
 - Fixed Footsteps trigger based on Animation instead of Delays/Timers
-- AI with attacking animations and deals damage
+- AI with basic footsteps, attacking animations and deals damage
 
 For support with HE Reloaded or even the market version of Horror Engine Please join the Community run discord server
 https://discord.gg/83UTpgh
