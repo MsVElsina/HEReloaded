@@ -1,4 +1,4 @@
-# HE_Reloaded for (UE 4.22)
+# HE_REloaded for (UE 4.22)
 Name subject to change, 
 This is my modifided version of the Free Horror Engine Asset for Unreal
 The goal of this project is to expand and improve the amazing HorrorEngine Asset
