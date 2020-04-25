@@ -21,6 +21,7 @@ These are:
 - Ghost type enemies (use special equipment to see them)
 - Reworked weapon system
 
+Please remeber to credit me and the other contributors in any releases made with this pack
 
 You can follow the development roadmap here: 
 https://trello.com/b/8AYqMGTp/msvelsina-horror-development-addons-assets
