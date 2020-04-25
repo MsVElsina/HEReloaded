@@ -18,6 +18,7 @@ These are:
 - Player body
 - Fixed Footsteps trigger based on Animation instead of Delays/Timers
 - AI with basic footsteps, attacking animations and deals damage
+- Ghost type enemies (use special equipment to see them)
 - Reworked weapon system
 
 
