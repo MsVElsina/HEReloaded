@@ -21,13 +21,16 @@ These are:
 - Ghost type enemies (use special equipment to see them)
 - Reworked weapon system
 
+You can find a more experimental version of the pack here:
+https://github.com/MsVElsina/HERE-Backer-UNSTABLE-
+
 Please remeber to credit me and the other contributors in any releases made with this pack
 
 You can follow the development roadmap here: 
 https://trello.com/b/8AYqMGTp/msvelsina-horror-development-addons-assets
 
 For support with HE Reloaded or even the market version of Horror Engine Please join the Community run discord server
-https://discord.gg/83UTpgh
+https://discord.com/invite/TnSfppSTQj
 
 If you want to support tansuergene please checkout thier marketplace assets
 https://www.unrealengine.com/marketplace/en-US/profile/tansuergene
