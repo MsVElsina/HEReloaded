@@ -1,6 +1,6 @@
 # HE_REloaded for (UE 4.24)
 Name subject to change, 
-This is my modifided version of the Free Horror Engine Asset for Unreal
+This is my modified version of the Free Horror Engine Asset for Unreal
 The goal of this project is to expand and improve the amazing HorrorEngine Asset
 
 The original HE asset was Developed by tansuergene
@@ -24,7 +24,7 @@ These are:
 You can find a more experimental version of the pack here:
 https://github.com/MsVElsina/HERE-Backer-UNSTABLE-
 
-Please remeber to credit me and the other contributors in any releases made with this pack
+Please remember to credit me and the other contributors in any releases made with this pack
 
 You can follow the development roadmap here: 
 https://trello.com/b/8AYqMGTp/msvelsina-horror-development-addons-assets
